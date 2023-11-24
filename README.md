@@ -26,7 +26,7 @@ My journey in technology has been marked by:
 I am the author of "Data Structure and Algorithm," contributing to the knowledge-sharing ecosystem.
 
 ## 🌐 Connect with Me
-
+- Youtube: [Watch Videos](https://www.youtube.com/@moshiurrahman-101)
 - LinkedIn: [moshiurrahman101](https://www.linkedin.com/in/moshiurrahman101)
 - Medium: [moshiurrahman101](https://medium.com/@moshiurrahman101)
 - Facebook: [moshiurRahman.FB](https://www.facebook.com/moshiurRahman.FB)
@@ -42,9 +42,9 @@ I am the author of "Data Structure and Algorithm," contributing to the knowledge
 
 <!-- You can use plugins like `github-readme-stats` to automatically display your latest blog posts -->
 
-1. [Blog Post 1](Link to Blog Post 1): Short description.
-2. [Blog Post 2](Link to Blog Post 2): Short description.
-3. ...
+1. [About WordPress development](https://moshiurrahman101.medium.com/about-wordpress-development-89ca63dcbc03): according to Wikipedia, is a free and open-source content management system (CMS) written in PHP and paired with a MySQL or MariaDB database. On May 27, 2003, initially released WordPress's first version. The WordPress Foundation has developed this system.
+2. [What is Web Development?](https://moshiurrahman101.medium.com/what-is-web-development-a16b7eef0f43): To know about web development, you first need to know what a website site. Really, this is a website where you read this article. Otherwise, it might be said that you wake up and check an APPS notification called Facebook, which is also a website. It’s also a website that you [watch on YouTube](https://www.youtube.com/@moshiurrahman-101).
+
 
 ## 🎉 Thanks for visiting!
 
