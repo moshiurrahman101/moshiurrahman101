@@ -28,7 +28,6 @@ I am the author of "Data Structure and Algorithm," contributing to the knowledge
 ## 🌐 Connect with Me
 
 - LinkedIn: [moshiurrahman101](https://www.linkedin.com/in/moshiurrahman101)
-- Twitter: [moshiurrahman101](https://twitter.com/moshiurrahman101)
 - Medium: [moshiurrahman101](https://medium.com/@moshiurrahman101)
 - Facebook: [moshiurRahman.FB](https://www.facebook.com/moshiurRahman.FB)
 - Instagram: [moshiurrahman_101](https://www.instagram.com/moshiurrahman_101)
